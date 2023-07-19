@@ -6,7 +6,7 @@ from sys import argv
 a = 20 # particles on rectangle side
 s = 1 # distance between particles
 N = a ** 2
-T = 1000
+T = 100
 dt_out = 3
 dt = 0.0001
 b = 1
